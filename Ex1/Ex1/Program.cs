@@ -15,7 +15,7 @@ namespace Ex1
                 Console.WriteLine(mas[i]);
             }
             
-            Console.WriteLine();
+           
             Console.WriteLine(Num);
             Console.WriteLine();
             for(int i=0; i<mas.Length; i++)
