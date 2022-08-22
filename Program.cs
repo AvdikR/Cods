@@ -17,7 +17,7 @@ namespace Ex1
             
             Console.WriteLine();
             Console.WriteLine(Num);
-            Console.WriteLine();
+            
             for(int i=0; i<mas.Length; i++)
             {
                 if (mas[i] >= 20)
